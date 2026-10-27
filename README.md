@@ -11,7 +11,8 @@
 - 算術演算命令はadd、sub、mul、divのみ
 
 ## 修正履歴
-
+- 2026年10月27日
+  - Rust 2024 Edition に変更
 - 2021年10月28日
   - 以下のissueを修正（b.gtのパーサを追加）
     - https://github.com/ytakano-lecture/aa64emu/issues/3
